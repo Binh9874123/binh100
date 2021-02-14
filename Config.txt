@@ -1,0 +1,4 @@
+INPUT = in.txt
+OUTPUT = out.txt
+TABLE = table.txt
+BUFFER = 10
